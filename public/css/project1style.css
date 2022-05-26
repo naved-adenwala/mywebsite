@@ -1,0 +1,35 @@
+
+.navbar-dark .navbar-nav .nav-link {
+    /* it is always recommended to use important to overwrite */
+    /* color: rgb(255, 255, 255) !important; */
+    font-weight: 500;
+
+}
+
+.bn{
+
+    color: rgb(195, 214, 231) !important;
+}
+
+#clie{
+    display: inline-block;
+    position: relative;
+    width: 500px;
+
+}
+.inp{
+    padding: 25px;
+
+}
+    .mt{
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.wel{
+    display: inline-block;
+}
+
+body{
+	background-color: blue;
+}
